@@ -15,7 +15,6 @@
   <img align="center" alt="lucas-wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="lucas-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="lucas-mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="lucas-firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebasedb/firebasedb-original.svg">
 </div>
   
   
