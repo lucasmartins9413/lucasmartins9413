@@ -1,9 +1,5 @@
 ## Seja Bem vindo, Meu nome é Lucas Martins
-<div>
-  <a href="https://github.com/lucasmartins9413">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=lucasmartins9413&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmartins9413&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
